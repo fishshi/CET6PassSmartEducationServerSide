@@ -1,0 +1,19 @@
+{
+    "properties": [
+        {
+            "name": "xunfei.client.appid",
+            "type": "java.lang.String",
+            "description": "xunfei.client.appid"
+        },
+        {
+            "name": "xunfei.client.apiSecret",
+            "type": "java.lang.String",
+            "description": "xunfei.client.apiSecret"
+        },
+        {
+            "name": "xunfei.client.apiKey",
+            "type": "java.lang.String",
+            "description": "xunfei.client.apiKey"
+        }
+    ]
+}
